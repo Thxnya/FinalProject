@@ -33,6 +33,9 @@ https://github.com/Thxnya/FinalProject
 <img src="https://user-images.githubusercontent.com/104615422/194770788-25ec10f9-890c-4dda-b8cd-dbec38df2234.jpg" width="60%" height="60%">
 <img src="https://user-images.githubusercontent.com/104615422/194770789-db56e3ce-55c1-4a43-935c-365eaf98b6af.jpg" width="60%" height="60%">
 <img src="https://user-images.githubusercontent.com/104615422/194770792-a5e504c7-e294-4b9f-b857-f5eb2d267b61.jpg" width="60%" height="60%">
+
+###  - 전이학습 결과
+
 <img src="https://user-images.githubusercontent.com/104615422/194770793-925c539d-193c-4106-a790-c51262dcf630.JPG" width="60%" height="60%">
 
 ---
