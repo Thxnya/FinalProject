@@ -1,6 +1,7 @@
 # FinalProject
 
 https://github.com/Thxnya/FinalProject
+EasyOCR 관련 학습 : https://thxanalysis.tistory.com/category/EasyOCR
 
 ## 최종 프로젝트(진행중) - AI기반 영상 내 정보 탐지 서비스 개발
 
